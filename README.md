@@ -1,6 +1,6 @@
 # Human Text Checker – Chrome Extension
 
-A simple Chrome extension that scans the text on any webpage and determines whether it "looks human" based on a list of commonly overused or generic phrases. It's great for detecting AI-generated or formulaic content.
+A simple Chrome extension that scans the text on any webpage and determines whether it "looks human" based on a list of commonly overused or generic phrases. It's great for detecting AI-generated or formulaic content. Common words were extracted from [this reddit post](https://www.reddit.com/r/ChatGPTPro/comments/163ndbh/overused_chatgpt_terms_add_to_my_list/)
 
 ---
 
